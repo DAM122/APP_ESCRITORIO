@@ -1,0 +1,14 @@
+C:\Users\Pablo\Desktop\GestionAppTurismo\bin\Debug\GestionAppTurismo.exe.config
+C:\Users\Pablo\Desktop\GestionAppTurismo\bin\Debug\GestionAppTurismo.exe
+C:\Users\Pablo\Desktop\GestionAppTurismo\bin\Debug\GestionAppTurismo.pdb
+C:\Users\Pablo\Desktop\GestionAppTurismo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\GestionAppTurismo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\GestionAppTurismo\obj\Debug\GestionAppTurismo.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\GestionAppTurismo\obj\Debug\GestionAppTurismo.Form1.resources
+C:\Users\Pablo\Desktop\GestionAppTurismo\obj\Debug\GestionAppTurismo.MonumentoForm.resources
+C:\Users\Pablo\Desktop\GestionAppTurismo\obj\Debug\GestionAppTurismo.Properties.Resources.resources
+C:\Users\Pablo\Desktop\GestionAppTurismo\obj\Debug\GestionAppTurismo.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\GestionAppTurismo\obj\Debug\GestionAppTurismo.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\GestionAppTurismo\obj\Debug\GestionAppTurismo.csproj.CopyComplete
+C:\Users\Pablo\Desktop\GestionAppTurismo\obj\Debug\GestionAppTurismo.exe
+C:\Users\Pablo\Desktop\GestionAppTurismo\obj\Debug\GestionAppTurismo.pdb
